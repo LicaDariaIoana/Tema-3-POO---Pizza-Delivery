@@ -1,5 +1,7 @@
 # Tema-3-POO---Pizza-Delivery
 
+
+
   Pentru acest README, voi efectua un auto-review proiectului meu, în care o să explic pe scurt: modul în care am interpretat tema aleasă, ce funcționalități am păstrat din temele 1 și 2 și ce am adăugat în tema 3.
 Tema pe care am avut-o la toate cele trei proiecte din acest semestru a fost „Pizza Delivery”. Am ales să implementez o interfață pentru un angajat al unei pizzerii prin care acesta poate să vizualizeze meniul, să îl modifice și să preia comenzi. De asemenea, în plus față de tema 2, s-a adăugat și o funcțiune pentru a vizualiza istoricul acțiunilor și al veniturilor din acea zi.
 
